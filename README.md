@@ -135,7 +135,7 @@ More technologies will be added as I continue learning.
 # 📬 Connect With Me
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+(www.linkedin.com/in/asmita-jamge-99344b384)
 
 GitHub:
 https://github.com/AsmitaJamge
