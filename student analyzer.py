@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #STUDENT RESULT MANAGEMENT SYSTEM
 student_name = input("Enter your  Full Name:")
 age = int(input("Enter your Age:"))
@@ -52,7 +52,7 @@ else:
 
 print("="*40)
 
-=======
+
 #STUDENT RESULT MANAGEMENT SYSTEM
 student_name = input("Enter your  Full Name:")
 age = int(input("Enter your Age:"))
@@ -105,4 +105,4 @@ else:
 
 print("="*40)
 
->>>>>>> f671ab8ea9669ea289e052851e8352e2fd558e19
+
